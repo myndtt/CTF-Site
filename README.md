@@ -36,13 +36,7 @@ Ctf-Station 是介绍国内外一些适合入门新手练习的，涉及web,杂�
   + [game1 writeup](http://blog.sina.com.cn/s/blog_e9e8d5e80101jnxs.html)
 
   + [game2 writeup 暂无](#)
-  
-### [coolshell][http://fun.coolshell.cn/]
-
-  偏向于编码解密
-  
-  + [writeup](http://www.freebuf.com/news/others/40950.html)
-  
+ 
 ### [黑客榜中榜](http://www.cn-hack.cn/site/uu0708.html)
 
 ​	  该站点有好几期游戏，三期综合起来说综合性还是很强的。
@@ -55,7 +49,7 @@ Ctf-Station 是介绍国内外一些适合入门新手练习的，涉及web,杂�
 
   + [writeup](http://www.atomsec.org/%E6%B8%B8%E6%88%8F/%E9%BB%91%E5%AE%A2%E4%B8%9B%E6%9E%97%E4%B9%8B%E6%97%85%E9%80%9A%E5%85%B3%E6%94%BB%E7%95%A5/)
 
-### [CoolShell puzzle game](http://fun.coolshell.cn/)
+### [CoolShell](http://fun.coolshell.cn/)
 
 ​	该站点主要涉及编码(包括编写代码)，，加密解密等知识，还是很好的，尽力独立完成
 
@@ -169,7 +163,7 @@ Ctf-Station 是介绍国内外一些适合入门新手练习的，涉及web,杂�
 
   题目质量一般，可做可不做，因为这个网站不太友好，老是退出，需重新登入。
 
-### [solveme](http://solveme.peng.kr/
+### [solveme](http://solveme.peng.kr/)
 
   综合性很强。
 
