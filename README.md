@@ -131,6 +131,8 @@ Ctf-Station 是介绍国内外一些适合入门新手练习的，涉及web,杂�
   
 ### [xctf训练平台](http://oj.xctf.org.cn/web/login/?next=/)
 
+  经常关注xctf会有许多知识可以获取
+
 ### [网络信息安全攻防平台](http://hackinglab.cn/)
 
   这个站点各类题目进行准确区分，题目难度适中，质量很高。
