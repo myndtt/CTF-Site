@@ -176,4 +176,7 @@ Ctf-Site 是介绍国内外一些适合入门新手练习的，涉及web,杂项,
 ### [stypr](https://chall.stypr.com/)
   题目难度较高，且知识点综合
 
-  + [writeup暂无](#)
+  + [writeup暂无 求助](#)
+### [moctf](http://www.moctf.com)
+  web题目大都是以往已经出现过的质量较高的题目，十分适合一做
+  + [wrietup web](https://mp.weixin.qq.com/s?src=11&timestamp=1519695002&ver=723&signature=8nFb6h7BjJdUcfcRTi8ygrn2a4jCe97BuW4NmXBWzsJU14vamejEgRftj47yBv0WUKcHB8jUFHUFQhEMjcL-9N3QsUvBW0ZnK70rLEWnM26MjxAOc0fPub-1bxDvGczJ&new=1)
